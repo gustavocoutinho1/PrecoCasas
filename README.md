@@ -25,7 +25,7 @@ A engenharia de atributos foi essencial para transformar dados brutos em informa
 ### 🔢 [Ordinal Encoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html) (Scikit-Learn)
 Converti variáveis categóricas em valores numéricos ordenados usando o `OrdinalEncoder`, permitindo que o modelo interpretasse padrões presentes nas categorias.
 
-### 🧩 Função `.map()` do [Pandas](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.map.html)
+### 🧩 Função `[.map()](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.map.html)` do Pandas
 
 Utilizei também `.map()` para transformar categorias específicas em valores numéricos personalizados, permitindo uma modelagem mais direcionada em variáveis importantes do dataset.
 
@@ -50,7 +50,7 @@ O modelo escolhido foi a **[Regressão Linear](https://developers.google.com/mac
 
 ### ✔️ Por que escolhi este modelo?
 
-Eu realizei testes com **diferentes algoritmos**, comparando seus resultados por meio das métricas **RMSE** e **MAE**.  
+Eu realizei testes com **diferentes algoritmos**, comparando seus resultados por meio das métricas **MSE** e **MAE**.  
 
 A partir dessa comparação, a **Regressão Linear apresentou o melhor desempenho**, sendo a escolha ideal para este projeto.
 
