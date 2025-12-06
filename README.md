@@ -31,7 +31,7 @@ Utilizei também `.map()` para transformar categorias específicas em valores nu
 
 # 📏 3. Padronização dos Dados
 
-### 🧮 [StandardScaler (Scikit-Learn)](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
+### 🧮 [StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html) (Scikit-Learn)
 
 Apliquei **padronização** com `StandardScaler` para deixar os dados numéricos em uma mesma escala (média 0, desvio 1).
 
