@@ -25,7 +25,7 @@ A engenharia de atributos foi essencial para transformar dados brutos em informa
 ### 🔢 [Ordinal Encoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html) (Scikit-Learn)
 Converti variáveis categóricas em valores numéricos ordenados usando o `OrdinalEncoder`, permitindo que o modelo interpretasse padrões presentes nas categorias.
 
-### 🧩 Função `[.map()](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.map.html)` do Pandas
+### 🧩 Função `.map()` do [Pandas](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.map.html)
 
 Utilizei também `.map()` para transformar categorias específicas em valores numéricos personalizados, permitindo uma modelagem mais direcionada em variáveis importantes do dataset.
 
