@@ -82,7 +82,7 @@ A acurácia atingiu **82,5%**, de acordo com a avaliação automática da plataf
 
 
 
-    📦 PrecoCasas
+    📦 PrevisaoPrecoImoveis
     ├── PrecoCasas.ipynb			# Jupyter Notebook com todo o fluxo do projeto
     ├── README.md			 		# Arquivo de documentação
     └── dataset/					# Dataset utilizado no projeto
