@@ -1,4 +1,4 @@
-﻿# 🏠 Previsão de Preços de Casas --- *Projeto de Machine Learning*
+﻿# 🏠 Previsão de Preços de Casas - *Projeto de Machine Learning*
 
 Bem-vindo ao meu projeto **PrecoCasas**, onde desenvolvi um modelo de **[Regressão Linear](https://developers.google.com/machine-learning/crash-course/linear-regression?hl=pt-br)** para prever preços de imóveis com base em diversos atributos. 
 
