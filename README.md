@@ -106,4 +106,4 @@ Esse projeto foi uma excelente oportunidade para aplicar conceitos essenciais de
 -   Teste e comparação de modelos
 -   Análise gráfica das previsões
 
-Com essa base, consegui alcançar **82,5% de acurácia** no Kaggle e construir um pipeline de previsão funcional e bem estruturado.
+Com essa base, consegui alcançar **82,5% de acurácia** no Kaggle e construir um modelo de previsão funcional e bem estruturado.
