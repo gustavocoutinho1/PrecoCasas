@@ -44,7 +44,7 @@ Apliquei **padronização** com `StandardScaler` para deixar os dados numéricos
 
 Essa etapa foi fundamental para obter boas métricas de erro.
 
-# 🤖 4. Modelo Utilizado --- Regressão Linear
+# 🤖 4. Modelo Utilizado - Regressão Linear
 
 O modelo escolhido foi a **[Regressão Linear](https://developers.google.com/machine-learning/crash-course/linear-regression?hl=pt-br)**, uma técnica simples e eficiente para compreender relações entre variáveis numéricas.
 
