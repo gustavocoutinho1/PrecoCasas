@@ -62,11 +62,11 @@ A Regressão Linear ajusta uma linha (ou hiperplano) que melhor representa a rel
 
 Avaliei a performance do modelo utilizando:
 
-### 📉 **[MSE (Mean Squared Error)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)**
+### 📉 **[MSE](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html) (Mean Squared Error)**
 
 Mede o erro quadrático médio, dando mais peso a erros maiores.
 
-### 📈 **[MAE (Mean Absolute Error)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html)**
+### 📈 **[MAE](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html) (Mean Absolute Error)**
 
 Mede o erro absoluto médio, indicando o quão distante a previsão fica do valor real.
 
